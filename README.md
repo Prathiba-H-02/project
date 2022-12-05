@@ -1,4 +1,4 @@
-# project
+# smart bin 
 ### IoT based automated UV disinfecting bin (Covid-19 Waste Management System)
 - This bin is a protoype developed for collection of used facemasks and disinfecting them to promote safe waste collection in times of pandemic.An online survey was conducted which showed face masks are the most commonly used Covid-19 safety equipment. Today, tonnes of waste is additionally generated with the usage of safety equipments like face masks, face shields, gloves ,PPE's etc , making waste management more challenging. 
 - The bin is developed with the following components:
